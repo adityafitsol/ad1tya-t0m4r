@@ -9,7 +9,7 @@ File  Action  Edit  View  Help
 
 ⁍ Name : Aditya Tomar
 ⁍ ??   : Offensive Security Web Expert (Gonna be - Wanna be)?!
-⁍ ??   : Pre-Final Year Computer Engineering Student @ Vellore Institute Techonology, Vellore (I²IT)
+⁍ ??   : Pre-Final Year Computer Engineering Student @ Vellore Institute Techonology, Vellore (VIT)
 
 : Learning :
 ==> Source Code Analysis (White Box Testing)
